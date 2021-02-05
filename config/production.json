@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://develop:develop123@develop.zfosq.mongodb.net/develop?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+    
+}
+
